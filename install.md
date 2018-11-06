@@ -2,7 +2,7 @@
 
 ## 준비
 - Java
-    - http://www.oracle.com/technetwork/java/javase/downloads/index.html에 방문하여 Oracle JDK 1.8.0 이상을 설치합니다.
+    - http://www.oracle.com/technetwork/java/javase/downloads/index.html 에 방문하여 Oracle JDK 1.8.0 이상을 설치합니다.
 
 - Tomcat
     - http://tomcat.apache.org 에 방문하여 Tomcat 7.0 버전 이상을 설치합니다.
