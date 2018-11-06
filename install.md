@@ -8,21 +8,21 @@
     - http://tomcat.apache.org 에 방문하여 Tomcat 7.0 버전 이상을 설치합니다.
 
 - Eclipse
-    - IDE로 Eclipse를 사용할 경우, http://www.eclipse.org에 방문하여 Luna 이상의 버전(최신버전 권장)을 설치합니다.
+    - IDE로 Eclipse를 사용할 경우, http://www.eclipse.org 에 방문하여 Luna 이상의 버전(최신버전 권장)을 설치합니다.
 
 - STS(Spring Tool Suite)
-    - IDE로 STS를 사용할 경우 https://spring.io/tools에 방문하여 3.7.0 이상 (최신버전 권장)을 설치합니다.
+    - IDE로 STS를 사용할 경우 https://spring.io/tools 에 방문하여 3.7.0 이상 (최신버전 권장)을 설치합니다.
 
 - IntelliJ
     - IDE로 IntelliJ를 사용할 경우 12버전 이상의 Ultimate 버전 (최신버전 권장)을 설치합니다.
 
 - Lombok
-    - Eclipse를 사용할 경우 https://projectlombok.org에 방문하여 lombok.jar를 통해 Eclipse에 Lombok 플러그인을 설치합니다.
+    - Eclipse를 사용할 경우 https://projectlombok.org 에 방문하여 lombok.jar를 통해 Eclipse에 Lombok 플러그인을 설치합니다.
     - IntelliJ를 사용할 경우 Lombok Plugin을 설치합니다.
     ![Screen Shot 2016-09-18 at 8.16.36 PM.png](https://raw.githubusercontent.com/axboot/ax-boot-document/master/assets/4C931C12EF473748B9764E3C577F1ADA.png)
 
 - Git
-    - https://git-scm.com에 방문하여 Git을 설치합니다.
+    - https://git-scm.com 에 방문하여 Git을 설치합니다.
     
 - Node
     - https://nodejs.org 방문하여 nodejs를 설치합니다.
